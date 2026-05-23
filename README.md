@@ -3,7 +3,7 @@ How to install BLtouch on Tronxy-XY2
 
 When installing the bltouch on my printer, I encountered a problem. It would pop out on its own and intermittently fail to engage.
 
-![Image alt](https://github.com/Pr0jectAvailable/BLtouch-Tronxy-XY2-PRO/raw/main/photo.png)
+![Image alt](https://github.com/Pr0jectAvailable/BLtouch-Tronxy-XY2-PRO/raw/main/photo.jpg)
 
 Here's what I did and what ultimately helped:
 
